@@ -1,0 +1,22 @@
+{
+  "name": "jsdelivr_url",
+  "version": "0.0.1",
+  "description": "return jsdelivr url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njzjz/jsdelivr_url.git"
+  },
+  "keywords": [
+    "jsdelivr"
+  ],
+  "author": "Jinzhe Zeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njzjz/jsdelivr_url/issues"
+  },
+  "homepage": "https://github.com/njzjz/jsdelivr_url#readme"
+}
